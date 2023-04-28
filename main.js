@@ -40,7 +40,7 @@ ctx.stroke();
 ctx.beginPath();
 ctx.strokeStyle = "red";
 ctx.lineWidth = 5;
-ctx.arc(210, 40, 40, 0, 2 * Math.PI);
+ctx.arc(450, 210, 40, 0, 2 * Math.PI);
 ctx.stroke()
 
 // Similarly, create an orange circle with position 300 and 250
